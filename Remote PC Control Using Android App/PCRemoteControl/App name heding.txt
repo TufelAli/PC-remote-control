@@ -1,0 +1,4 @@
+android:label="@string/title_activity_ip"
+android:label="@string/title_activity_menu"
+android:label="@string/title_activity_control"
+android:label="@string/title_activity_control_ppt"

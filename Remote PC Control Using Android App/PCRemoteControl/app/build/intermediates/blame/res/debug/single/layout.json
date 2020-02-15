@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_control_media.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\layout\\activity_control_media.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_control_word.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\layout\\activity_control_word.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_image.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\layout\\view_image.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_control_panel.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\layout\\activity_control_panel.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_adapter.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\layout\\activity_image_adapter.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_media.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\layout\\view_media.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\layout-port\\activity_ip.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\layout-port\\activity_ip.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\layout-port\\activity_menu.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\layout-port\\activity_menu.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\layout-port\\activity_control_ppt.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\layout-port\\activity_control_ppt.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\layout-port\\activity_control.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\layout-port\\activity_control.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\layout-port\\activity_main.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\layout-port\\activity_main.xml"
+    }
+]

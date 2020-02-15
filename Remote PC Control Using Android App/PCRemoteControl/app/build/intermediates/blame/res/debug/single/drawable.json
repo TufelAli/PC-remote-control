@@ -1,0 +1,1186 @@
+[
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_stop_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_stop_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_settings_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_settings_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cmd.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\cmd.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favriot.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\favriot.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_next_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_next_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_next_page_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_next_page_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_links_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_links_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_image.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_image.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_shift.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_shift.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_prev_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_prev_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_connect_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_connect_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_close.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_close.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_stop.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_stop.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_pause_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_pause_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_ppt_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_ppt_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_close_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_close_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_cmd_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_cmd_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_contacts_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_contacts_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_previous.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_previous.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shut_logout_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\shut_logout_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_repeat_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_repeat_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_rewind.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_rewind.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_prev_page.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_prev_page.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_control.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_control.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_close_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_close_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wclose.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\wclose.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_mute.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_mute.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_music.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_music.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_video_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_video_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_forward_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_forward_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_loggingof_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_loggingof_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wopen.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\wopen.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\print.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\print.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\media.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\media.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sleep_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_sleep_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_control_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_control_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_notepad_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_notepad_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_normal.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_normal.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_mute_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_mute_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_image_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_image_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wredo.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\wredo.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_recent_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_recent_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\enter.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\enter.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_download_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_download_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_music_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_music_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paste.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\paste.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_favor.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_favor.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_snipping_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_snipping_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_favor_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_favor_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_settings.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_settings.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rehan.jpg",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\rehan.jpg"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_switchoff_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_switchoff_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_download.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_download.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wsaveas.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\wsaveas.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\welcome.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_repeat_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_repeat_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageb_versus.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\imageb_versus.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a.jpg",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\a.jpg"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_minimize_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_minimize_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_connect.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_connect.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ppt_next_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\ppt_next_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ctrta.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\ctrta.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shut_sleep_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\shut_sleep_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_video_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_video_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_close.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_close.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_computer_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_computer_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_minimize.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_minimize.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_maximize.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_maximize.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\forw.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\forw.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_eject_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_eject_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_forward.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_forward.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_right_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_right_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_enter_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_enter_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_ctrl_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_ctrl_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_play_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_play_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pcremote.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\pcremote.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_play_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_play_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mus.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mus.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_snipping_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_snipping_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_decrease_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_decrease_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_ctrl.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_ctrl.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_save.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_save.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_shift_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_shift_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\window.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\window.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vid.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\vid.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_next_page_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_next_page_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mouse_left.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mouse_left.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_up_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_up_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_mute_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_mute_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wedit.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\wedit.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touch_screen.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\touch_screen.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_recent.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_recent.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_minimize_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_minimize_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_exit_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_exit_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cut.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\cut.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shut_hibernate_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\shut_hibernate_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_list_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_list_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ke.jpg",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\ke.jpg"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_connect_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_connect_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_calculator.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_calculator.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_ppt.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_ppt.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_next.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_next.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_up_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_up_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_logout.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_logout.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minimize.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\minimize.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_eject_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_eject_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_music_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_music_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_cmd_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_cmd_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_minimize_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_minimize_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\downloads.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\downloads.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_play_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_play_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_play.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_play.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageb_close.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\imageb_close.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_next.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_next.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\word.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\word.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_sleep.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_sleep.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_eject.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_eject.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_close_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_close_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wsave.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\wsave.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\tab.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_back.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_back.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mouse_right_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mouse_right_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_prev_page_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_prev_page_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_cmd.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_cmd.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_controlpanel_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_controlpanel_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.gif",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\loading.gif"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_repeat.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_repeat.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wprint.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\wprint.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shutdown.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\shutdown.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_list.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_list.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_documents.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_documents.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_rewind_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_rewind_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\saveas.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\saveas.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageb_delete.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\imageb_delete.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recent.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\recent.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_next_page.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_next_page.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mouse_left_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mouse_left_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contacts.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\contacts.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageb_same.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\imageb_same.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_forward.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_forward.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_prev.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_prev.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_right.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_right.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\naya.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\naya.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_minimize_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_minimize_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_left_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_left_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ppt_stop_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\ppt_stop_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_download_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_download_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\handle.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\handle.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_up.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_up.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_contacts_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_contacts_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_increase_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_increase_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_shut_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_shut_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wcopy.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\wcopy.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_forward_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_forward_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_rewind_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_rewind_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_exit_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_exit_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wnew.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\wnew.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wcut.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\wcut.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ppt_prev_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\ppt_prev_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_hibernate_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_hibernate_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_computer.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_computer.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_ppt_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_ppt_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_enter_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_enter_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\copy.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\copy.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mouse_left_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mouse_left_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\links.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\links.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_calculator_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_calculator_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_back_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_back_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_next_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_next_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_forward_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_forward_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_save_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_save_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snip.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\snip.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_ctrl_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_ctrl_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\open.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\open.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\prev.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\prev.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_notepad.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_notepad.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_switchoff.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_switchoff.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_down.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_down.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cal.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\cal.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loader.gif",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\loader.gif"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\forward.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\forward.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_play.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_play.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mouse_right_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mouse_right_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_links_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_links_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_computer_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_computer_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wpaste.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\wpaste.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageb_next.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\imageb_next.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fav.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\fav.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediapanel.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediapanel.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\p.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\p.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_stop.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_stop.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_media.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_media.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mouse_right.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mouse_right.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shut_shutdown_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\shut_shutdown_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_previous_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_previous_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_controlpanel_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_controlpanel_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_desktop.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_desktop.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_down_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_down_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleep.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\sleep.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shut_restart_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\shut_restart_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_normal_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_normal_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_decrease.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_decrease.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_decrease_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_decrease_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_shift_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_shift_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_right_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_right_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_pause.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_pause.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_paint.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_paint.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_exit.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_exit.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_increase_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_increase_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_mute.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_mute.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keyb.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\keyb.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\deve.jpg",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\deve.jpg"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_maximize_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_maximize_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shut_loggingof_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\shut_loggingof_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_mute_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_mute_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_previous_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_previous_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_minimize.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_minimize.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_logout_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_logout_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\download.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ppt_close_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\ppt_close_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_left_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_left_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_desktop_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_desktop_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paint.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\paint.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_stop_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_stop_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_paint_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_paint_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_back_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_back_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_shutdown_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_shutdown_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_restart_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_restart_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\picture.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\picture.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ipback.jpg",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\ipback.jpg"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ppt_play_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\ppt_play_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_shutdown.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_shutdown.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_desktop_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_desktop_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ppt.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\ppt.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_notepad_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_notepad_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_calculator_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_calculator_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reha.jpg",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\reha.jpg"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tufel.jpg",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\tufel.jpg"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_left.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_left.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_enter.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_enter.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notepad.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\notepad.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wifi.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\wifi.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_documents_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_documents_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_settings_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_settings_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ma.jpg",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\ma.jpg"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediaback.jpg",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediaback.jpg"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cp.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\cp.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lod.gif",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\lod.gif"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_mute_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_mute_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_save_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_save_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_video.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_video.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageb_prev.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\imageb_prev.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_favor_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_favor_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\save.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_media_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_media_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_stop_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_stop_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_paint_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_paint_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_image_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_image_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_recent_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_recent_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_switchoff_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_switchoff_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\restart.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\restart.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\documents.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\documents.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_documents_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_documents_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_controlpanel.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_controlpanel.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\saif.jpg",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\saif.jpg"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_snipping.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_snipping.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_maximize_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_maximize_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_normal_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_normal_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mycomputer.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mycomputer.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_forward_state.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_forward_state.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_restart.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_restart.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_links.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_links.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\switchus.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\switchus.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_pause_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_pause_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_loggingof.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_loggingof.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_contacts.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_contacts.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\video.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\video.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_increase.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_increase.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_control_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_control_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dis.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\dis.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\desktop.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\desktop.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_next_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_next_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wal.jpg",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\wal.jpg"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_hibernate.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_hibernate.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_panel_down_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\button_panel_down_selector.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wundo.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\wundo.png"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediab_list_selector.png",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\drawable\\mediab_list_selector.png"
+    }
+]

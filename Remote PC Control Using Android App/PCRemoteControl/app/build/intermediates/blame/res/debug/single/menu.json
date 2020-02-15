@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\control.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\menu\\control.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\control_ppt.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\menu\\control_ppt.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\control_shut_down.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\menu\\control_shut_down.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\control_panel.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\menu\\control_panel.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\i.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\menu\\i.xml"
+    },
+    {
+        "merged": "F:\\PCRemoteControl\\app\\build\\intermediates\\res\\merged\\debug\\menu\\control_settings.xml",
+        "source": "F:\\PCRemoteControl\\app\\src\\main\\res\\menu\\control_settings.xml"
+    }
+]
